@@ -23,7 +23,7 @@ The Flask Application runs the app while the 'Sheet Counter Code' conatins codet
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/ahmad-meda/Chatbot-Jessup-Cellars/tree/main
+    git clone https://github.com/ahmad-meda/Sheet-Counter_Computer-Vision/tree/main
     cd jessup-cellars-chatbot
     ```
 

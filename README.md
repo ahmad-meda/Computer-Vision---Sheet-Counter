@@ -27,16 +27,11 @@ The Flask Application runs the app while the 'Sheet Counter Code' contains code 
     cd Sheet-Counter
     ```
 
-2. **Create and activate a virtual environment**:
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
-3. **Install the required packages**:
+2. **Install the required packages**:
     ```sh
     pip install Flask opencv-python-headless
     ```
-4. **Ensure your `static/uploads/` file is in the project directory**.
+3. **Ensure your `static/uploads/` file is in the project directory**.
 
 ## Running the Application
 

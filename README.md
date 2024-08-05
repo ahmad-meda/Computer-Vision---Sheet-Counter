@@ -2,7 +2,7 @@
 
 This application automates the process of counting sheets in a stack using computer vision techniques. Users can upload images of sheet stacks through a web interface, and the application will process the images to determine the number of sheets.
 
-The Flask Application runs the app while the 'Sheet Counter Code' conatins codethat shows the lines highlighted to count the sheets.
+The Flask Application runs the app while the 'Sheet Counter Code' contains code that shows the lines highlighted to count the sheets.
 
 ## Features
 
@@ -24,7 +24,7 @@ The Flask Application runs the app while the 'Sheet Counter Code' conatins codet
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/ahmad-meda/Sheet-Counter_Computer-Vision/tree/main
-    cd jessup-cellars-chatbot
+    cd Sheet-Counter
     ```
 
 2. **Create and activate a virtual environment**:
